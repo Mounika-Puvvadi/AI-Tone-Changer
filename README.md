@@ -106,6 +106,5 @@ You can adjust the following settings in the code:
 - `MODEL`: Select a different model from OpenRouter
 - `temperature` and other generation parameters in the API request
 
-## License
+<img width="1202" height="857" alt="image" src="https://github.com/user-attachments/assets/3ad7f3d2-519c-49cf-ba9a-2b239417dcce" />
 
-MIT 
