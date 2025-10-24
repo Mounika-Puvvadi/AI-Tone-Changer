@@ -18,7 +18,7 @@ HEADERS = {
     "X-Title": "OpenRouter Tone Generator",
     "Content-Type": "application/json"
 }
-MODEL = "deepseek/deepseek-chat:free"
+MODEL = "mistralai/mistral-7b-instruct"
 
 # Rate limiter settings
 MAX_REQUESTS_PER_MINUTE = 10
