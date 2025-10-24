@@ -15,7 +15,7 @@ HEADERS = {
     "X-Title": "TinyLM Chatbot",
     "Content-Type": "application/json"
 }
-MODEL = "deepseek/deepseek-chat:free"
+MODEL = "mistralai/mistral-7b-instruct"
 
 # Rate limiter settings
 MAX_REQUESTS_PER_MINUTE = 10  # Adjust based on your API tier limits
