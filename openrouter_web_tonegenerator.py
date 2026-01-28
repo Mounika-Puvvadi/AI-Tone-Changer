@@ -18,7 +18,7 @@ HEADERS = {
     "X-Title": "OpenRouter Tone Generator",
     "Content-Type": "application/json"
 }
-MODEL = "mistralai/mistral-7b-instruct:free"
+MODEL = "tngtech/deepseek-r1t2-chimera:free"
 
 # Rate limiter settings
 MAX_REQUESTS_PER_MINUTE = 10
