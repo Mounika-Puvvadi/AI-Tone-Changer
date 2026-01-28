@@ -15,7 +15,7 @@ HEADERS = {
     "X-Title": "TinyLM Chatbot",
     "Content-Type": "application/json"
 }
-MODEL = "mistralai/mistral-small-3.1-24b-instruct:free"
+MODEL = "google/gemini-2.0-flash-exp:free"
 
 # Rate limiter settings
 MAX_REQUESTS_PER_MINUTE = 10  # Adjust based on your API tier limits
