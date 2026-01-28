@@ -18,7 +18,7 @@ HEADERS = {
     "X-Title": "OpenRouter Web Chatbot",
     "Content-Type": "application/json"
 }
-MODEL = "tngtech/deepseek-r1t2-chimera:free"
+MODEL = "mistralai/mistral-small-3.1-24b-instruct:free"
 
 # Rate limiter settings
 MAX_REQUESTS_PER_MINUTE = 10  # Adjust based on your API tier limits
